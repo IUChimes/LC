@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Custom WoW Loot Council Frames
+## Author: Chimes
+## Version: 1.0.0
+## Notes: v1.0.0 Helps distributing loot according to Loot Council rules
+## SavedVariables: LC_ROSTER, LC_LOOT_HISTORY, TIME_TO_NEED, TIME_TO_VOTE, TIME_TO_ROLL, LC_ENABLED, LC_DEBUG, LC_TTN_FACTOR, LC_TTV_FACTOR
+CouncilFrame.xml
+ChatThrottleLib\ChatThrottleLib.lua
